@@ -48,5 +48,7 @@ Next to each intersection is the name of the intersection. E.g 20F.
 
 Under the name is cost (in seconds) of direct travel and cost of using the ultra speed road. E.g for intersection 1M the cost of direct travel is 468 and the cost of travelling on the ultra speed road is 452. 
 
+The intersections where it's beneficial to use the ultra speed road is marked with green. 
+
 ![Riddler City Roads.](riddle.png)
 
