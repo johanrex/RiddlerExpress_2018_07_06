@@ -39,3 +39,5 @@ For all vertices in the graph apply Dijkstra's algorithm for shortest path in a 
 
 A graphic representation of the graph and cost as well as source code (~250 lines C#) will be published on github after the time limit for solutions has ran out. 
 
+![Riddler City Roads.]("riddle.png")
+
