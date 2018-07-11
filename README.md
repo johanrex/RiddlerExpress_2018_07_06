@@ -39,5 +39,14 @@ For all vertices in the graph apply Dijkstra's algorithm for shortest path in a 
 
 A graphic representation of the graph and cost as well as source code (~250 lines C#) will be published on github after the time limit for solutions has ran out. 
 
+
+## Image of Riddle City roads
+
+Blue circled intersection (20F) is the starting corner. 
+
+Next to each intersection is the name of the intersection. E.g 20F. 
+
+Under the name is cost (in seconds) of direct travel and cost of using the ultra speed road. E.g for intersection 1M the cost of direct travel is 468 and the cost of travelling on the ultra speed road is 452. 
+
 ![Riddler City Roads.](riddle.png)
 
